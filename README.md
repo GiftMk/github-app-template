@@ -1,4 +1,4 @@
-# GitHub App Template 🐙
+# GitHub App Template
 
 Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 
