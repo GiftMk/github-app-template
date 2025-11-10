@@ -20,8 +20,8 @@ Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 
 ## Step 3: Run Local Server 🖥️
 - Clone the repo
-- Install Node.js - [See here](https://nodejs.org/en/download)
-- Install pnpm - [See here](https://pnpm.io/9.x/installation)
+- Install Node.js - [guide](https://nodejs.org/en/download)
+- Install pnpm - [guide](https://pnpm.io/9.x/installation)
 - Install dependencies
   ```bash
   pnpm install
