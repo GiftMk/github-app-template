@@ -47,7 +47,7 @@ Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 - Visit your GitHub App at Settings → Developer settings → GitHub Apps → <YOUR APP NAME> → Configure
 - Under "Repository access", select a repo to test on
 - Create a new issue in that repo
-- Your bot should leave a comment shortly ⏱️
+- Your bot should leave a comment shortly
 
 ## How to Deploy 🚀
 When deploying, you don't need the Smee.io proxy or the `WEBHOOK_PROXY_URL`.
