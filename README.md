@@ -3,7 +3,7 @@
 Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 
 ## Step 1: Create Proxy Webhook Channel 🌐
-> 🤔 GitHub can't send webhook events to a server on localhost, so we'll use a proxy that forwards events to your local server.
+> GitHub can't send webhook events to a server on localhost, so we'll use a proxy that forwards events to your local server.
 
 - Visit [smee.io](https://smee.io/)
 - Create a channel
