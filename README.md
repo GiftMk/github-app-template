@@ -50,7 +50,7 @@ Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 - Your bot should leave a comment shortly
 
 ## How to Deploy 🚀
-When deploying, you don't need the Smee.io proxy or the `WEBHOOK_PROXY_URL`.
+When deploying, you don't need the Smee.io channel or the `WEBHOOK_PROXY_URL`.
 
 Deploy to your platform of choice (e.g., AWS Lambda) and provide the same environment variables. Be sure to include the private key.
 
