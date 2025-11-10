@@ -15,7 +15,7 @@ Build a minimal GitHub App that responds to webhooks and is easy to run locally.
 - Set any homepage URL
 - Set the webhook URL to your Smee channel URL
 - Generate a random string (UUID is fine) and set it as the webhook secret
-- Minimal permissions: Issues (Read & write) and subscribe to the Issues event
+- Set minimal permissions - Issues (Read & write) and subscribe to the Issues event
 - Generate and download the private key (PEM)
 
 ## Step 3: Run Local Server 🖥️
