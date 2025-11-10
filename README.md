@@ -54,7 +54,7 @@ When deploying, you don't need the Smee.io channel or the `WEBHOOK_PROXY_URL`.
 
 Deploy to your platform of choice (e.g., AWS Lambda) and provide the same environment variables. Be sure to include the private key.
 
-Set the webhook URL to the public URL of your deployed server.
+Set the GitHub webhook URL to the public URL of your deployed server.
 
 ## Tooling 🧰
 - TypeScript
